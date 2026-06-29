@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-const API = "https://";
+const API = "https://shadowxcoding-999.onrender.com";
 
 export default function App() {
   const [username, setUsername] = useState("");
